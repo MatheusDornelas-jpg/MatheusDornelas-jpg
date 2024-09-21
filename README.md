@@ -1,4 +1,4 @@
-## Ooi! Eu sou o MatheusDornelas-JPG
+## Ooi! Eu sou o Matheus Dornelas
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Trabalhando atualmente como aprendiz na área de TI
 - 🎓 Téc. Mecatrônica
